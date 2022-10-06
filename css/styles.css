@@ -715,6 +715,7 @@ p,
   color: var(--secondary-black-color);
 }
 .form-field .label-comment {
+  display: inline-block;
   margin-bottom: 4px;
 }
 .form-field-check .info {
