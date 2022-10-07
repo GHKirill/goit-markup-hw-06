@@ -19,4 +19,10 @@
 <symbol id="check" viewBox="0 0 42 32">
 <path stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="0.64" d="M6.263 15.205l-0.22-0.21-3.307 3.132 11.651 11.114 24.477-23.351-3.285-3.134-21.192 20.197-8.124-7.75z"></path>
 </symbol>
+<symbol id="cross_original" viewBox="0 0 10 10">
+<path d="M11 1.108 9.892 0 5.5 4.392 1.108 0 0 1.108 4.392 5.5 0 9.892 1.108 11 5.5 6.608 9.892 11 11 9.892 6.608 5.5 11 1.108Z"></path>
+</symbol>
+<symbol id="icon_send" viewBox="0 0 32 32">
+<path fill="#fff" style="fill: var(--color1, #fff)" d="M32 0l-32 18 10.227 3.788 15.773-14.788-11.998 16.186 0.010 0.004-0.012-0.004v8.814l5.735-6.691 7.265 2.691 5-28z"></path>
+</symbol>
 </defs></svg>
